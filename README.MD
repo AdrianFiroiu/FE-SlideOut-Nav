@@ -8,3 +8,5 @@ Interactive navigation that slides out upon click, and returns to the original s
 - Run it!
 
 ---
+
+![Screenshot 1](/assets/Screenshot-1.png)
