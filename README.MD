@@ -9,4 +9,4 @@ Interactive navigation that slides out upon click, and returns to the original s
 
 ---
 
-![Screenshot 1](/assets/Screenshot-1.png)
+![Screenshot 1](/assets/img/Screenshot-1.png)
